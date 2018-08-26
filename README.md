@@ -1,10 +1,7 @@
-Animation Nodes
-===============
+MIDI nodes for Animation Nodes
+==============================
 
-Animation Nodes is a node based visual scripting system designed for motion graphics in [Blender](http://blender.org).
+This addition to Animation Nodes allows users to use MIDI files to trigger their animations.
+This is applicable to animators who wish to animate to music, or want easy time triggers for procedurally gennerated animations. 
 
-Download the latest version here: https://github.com/JacquesLucke/animation_nodes/releases/latest
-
-[Here](http://animation-nodes-manual.readthedocs.org/en/latest/) is the official documentation.
-
-[![Showreel](https://img.youtube.com/vi/nCghhlMOwRg/0.jpg)](https://www.youtube.com/watch?v=nCghhlMOwRg)
+[![MIDI demonstration](https://img.youtube.com/vi/Daoj08TVBEE.jpg)](https://www.youtube.com/watch?v=Daoj08TVBEE)
